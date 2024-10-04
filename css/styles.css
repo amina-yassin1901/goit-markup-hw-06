@@ -560,6 +560,7 @@ img {
 
 .team-list {
     display: flex;
+    justify-content: center;
     flex-direction: column;
     gap: 72px;
 }
