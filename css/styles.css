@@ -902,6 +902,7 @@ img {
 
 .footer-form-btn {
     max-width: 165px;
+    padding: 8px 24px;
     margin-left: auto;
     margin-right: auto;
     height: 40px;
